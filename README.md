@@ -1,0 +1,2 @@
+# PipsCoin
+A Decentralized Coin
